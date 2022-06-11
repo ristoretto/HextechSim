@@ -7,6 +7,7 @@ Aatrox	Blood Moon Aatrox	4	1/10/2019	1350	5	Aatrox_7
 Aatrox	Blood Moon Aatrox Prestige Edition	5	1/10/2019	special	6	Aatrox_8	
 Aatrox	Victorious Aatrox	6	11/21/2019	special	7	Aatrox_9	
 Aatrox	Odyssey Aatrox	7	10/15/2020	1350	8	Aatrox_11	
+Aatrox	Lunar Eclipse Aatrox		4/28/2022	1350		Aatrox_21	
 Ahri	Original Ahri	0	12/14/2011	880	9	Ahri_0	
 Ahri	Dynasty Ahri	1	12/14/2011	975	10	Ahri_1	
 Ahri	Midnight Ahri	2	12/14/2011	750	11	Ahri_2	
@@ -22,6 +23,7 @@ Ahri	Elderwood Ahri	11	8/29/2019	1350	20	Ahri_17
 Ahri	Spirit Blossom Ahri	12	8/6/2020	1820	21	Ahri_27	
 Ahri	K/DA ALL OUT Ahri	13	10/29/2020	1350	22	Ahri_28	
 Ahri	Coven Ahri	14	8/12/2021	1350	23	Ahri_42	
+Ahri	Arcana Ahri		4/14/2022	1350		Ahri_66	
 Akali	Original Akali	0	5/11/2010	790	24	Akali_0	
 Akali	Infernal Akali	1	5/11/2010	520	25	Akali_1	
 Akali	Stinger Akali	2	5/11/2010	520	26	Akali_2	
@@ -39,6 +41,7 @@ Akali	K/DA ALL OUT Akali	13	10/29/2020	1350	37	Akali_32
 Akali	Crime City Nightmare Akali		8/26/2021	1350		Akali_50	
 Akshan	Original Akshan	0	7/22/2021	975	39	Akshan_0	
 Akshan	Cyber Pop Akshan	1	7/22/2021	1350	40	Akshan_1	
+Akshan	Crystal Rose Akshan		2/10/2022	1350		Akshan_10	
 Alistar	Original Alistar	0	2/21/2009	585	41	Alistar_0	
 Alistar	Black Alistar	1	6/13/2009	special	42	Alistar_1	
 Alistar	Golden Alistar	2	1/13/2010	390	43	Alistar_2	
@@ -96,6 +99,7 @@ Annie	Cafe Cuties Annie		12/2/2021	1350		Annie_22
 Aphelios	Original Aphelios	0	12/11/2019	975	93	Aphelios_0	
 Aphelios	Nightbringer Aphelios	1	12/11/2019	1350	94	Aphelios_1	
 Aphelios	Lunar Beast Aphelios	2	2/4/2021	1350	95	Aphelios_9	
+Aphelios	EDG Aphelios		5/12/2022	1350		Aphelios_18	
 Ashe	Original Ashe	0	2/21/2009	260	96	Ashe_0	
 Ashe	Freljord Ashe	1	11/20/2009	520	97	Ashe_1	
 Ashe	Sherwood Forest Ashe	2	4/8/2010	520	98	Ashe_2	
@@ -110,6 +114,7 @@ Ashe	Cosmic Queen Ashe	10	8/21/2018	1350	106	Ashe_11
 Ashe	High Noon Ashe	11	10/10/2019	1820	107	Ashe_17	
 Ashe	Fae Dragon Ashe	12	10/1/2020	1350	108	Ashe_23	
 Ashe	Coven Ashe	13	8/12/2021	1350	109	Ashe_32	
+Ashe	Ocean Song Ashe		6/9/2022	1350		Ashe_43	
 Aurelion Sol	Original Aurelion Sol	0	3/24/2016	975	110	AurelionSol_0	
 Aurelion Sol	Ashen Lord Aurelion Sol	1	3/24/2016	1350	111	AurelionSol_1	
 Aurelion Sol	Mecha Aurelion Sol	2	8/16/2018	1350	112	AurelionSol_2	
@@ -126,6 +131,8 @@ Bard	Snow Day Bard	2	12/10/2015	1350	122	Bard_5
 Bard	Bard Bard	3	11/17/2016	750	123	Bard_6	
 Bard	Astronaut Bard	4	5/28/2020	1350	124	Bard_8	
 Bard	Cafe Cuties Bard		12/2/2021	1350		Bard_17	
+Bel'Veth	Battle Boss Bel'Veth		6/9/2022	1350		Belveth_1	
+Bel'Veth	Original Bel'Veth		6/9/2022	975		Belveth_0	
 Blitzcrank	Original Blitzcrank	0	9/1/2009	790	125	Blitzcrank_0	
 Blitzcrank	Rusty Blitzcrank	1	11/20/2009	520	126	Blitzcrank_1	
 Blitzcrank	Goalkeeper Blitzcrank	2	6/24/2010	520	127	Blitzcrank_2	
@@ -247,6 +254,7 @@ Ekko	SKT T1 Ekko	4	6/27/2017	1350	247	Ekko_11	yes
 Ekko	Trick or Treat Ekko	5	10/24/2018	1350	248	Ekko_12	
 Ekko	True Damage Ekko	6	11/10/2019	1820	249	Ekko_19	
 Ekko	Pulsefire Ekko	7	5/14/2020	1350	250	Ekko_28	
+Ekko	Firelight Ekko		2/17/2022	1350		Ekko_36	
 Elise	Original Elise	0	10/26/2012	880	251	Elise_0	
 Elise	Death Blossom Elise	1	10/26/2012	975	252	Elise_1	
 Elise	Victorious Elise	2	12/20/2013	special	253	Elise_2	
@@ -254,6 +262,7 @@ Elise	Blood Moon Elise	3	1/8/2015	975	254	Elise_3
 Elise	SKT T1 Elise	4	8/17/2016	975	255	Elise_4	yes
 Elise	Super Galaxy Elise	5	10/16/2017	1350	256	Elise_5	
 Elise	Bewitching Elise	6	10/22/2020	1350	257	Elise_6	
+Elise	Withered Rose Elise		2/10/2022	1350		Elise_15	
 Evelynn	Original Evelynn	0	4/30/2009	585	258	Evelynn_0	
 Evelynn	Shadow Evelynn	1	11/20/2009	520	259	Evelynn_1	
 Evelynn	Masquerade Evelynn	2	5/17/2010	520	260	Evelynn_2	
@@ -336,6 +345,7 @@ Gangplank	Captain Gangplank	7	8/9/2015	975	334	Gangplank_7
 Gangplank	Dreadnova Gangplank	8	1/12/2017	1350	335	Gangplank_8	
 Gangplank	Pool Party Gangplank	9	8/2/2018	1350	336	Gangplank_14	
 Gangplank	FPX Gangplank	10	4/30/2020	1350	337	Gangplank_21	yes
+Gangplank	Gangplank the Betrayer		5/5/2022	1350		Gangplank_23	
 Garen	Original Garen	0	4/27/2010	260	338	Garen_0	
 Garen	Desert Trooper Garen	1	4/27/2010	520	339	Garen_1	
 Garen	Sanguine Garen	2	4/27/2010	520	340	Garen_2	
@@ -383,6 +393,7 @@ Graves	Victorious Graves	8	11/8/2017	special	380	Graves_14
 Graves	Praetorian Graves	9	11/8/2018	1350	381	Graves_18	
 Graves	Battle Professor Graves	10	5/15/2019	1350	382	Graves_25	
 Graves	Sentinel Graves	11	7/22/2021	1820	383	Graves_35	
+Graves	EDG Graves		5/12/2022	1350		Graves_42	
 Gwen	Original Gwen	0	4/15/2021	975	384	Gwen_0	
 Gwen	Space Groove Gwen	1	4/15/2021	1350	385	Gwen_1	
 Gwen	Cafe Cuties Gwen		12/2/2021	1350		Gwen_11	
@@ -396,6 +407,7 @@ Hecarim	Worldbreaker Hecarim	6	11/10/2016	750	392	Hecarim_6
 Hecarim	Lancer Zero Hecarim	7	8/16/2017	special	393	Hecarim_7	
 Hecarim	High Noon Hecarim	8	10/10/2019	1350	394	Hecarim_8	
 Hecarim	Cosmic Charger Hecarim	9	11/24/2020	1350	395	Hecarim_14	
+Hecarim	Arcana Hecarim		4/14/2022	1350		Hecarim_22	
 Heimerdinger	Original Heimerdinger	0	10/9/2009	790	396	Heimerdinger_0	
 Heimerdinger	Blast Zone Heimerdinger	1	6/24/2010	520	397	Heimerdinger_1	
 Heimerdinger	Alien Invader Heimerdinger	2	7/13/2010	1820	398	Heimerdinger_2	
@@ -404,6 +416,7 @@ Heimerdinger	Snowmerdinger	4	12/14/2011	975	400	Heimerdinger_4
 Heimerdinger	Hazmat Heimerdinger	5	7/13/2014	975	401	Heimerdinger_5	
 Heimerdinger	Dragon Trainer Heimerdinger	6	10/11/2018	1820	402	Heimerdinger_6	
 Heimerdinger	Pool Party Heimerdinger	7	7/2/2020	1350	403	Heimerdinger_15	
+Heimerdinger	Heimerstinger		3/3/2022	1350		Heimerdinger_24	
 Illaoi	Original Illaoi	0	11/24/2015	975	404	Illaoi_0	
 Illaoi	Void Bringer Illaoi	1	11/24/2015	1350	405	Illaoi_1	
 Illaoi	Resistance Illaoi	2	3/15/2018	1350	406	Illaoi_2	
@@ -436,6 +449,7 @@ Janna	Sacred Sword Janna	8	9/27/2017	1350	432	Janna_8
 Janna	Bewitching Janna	9	10/24/2018	1350	433	Janna_13	
 Janna	Guardian of the Sands Janna	10	1/22/2020	1350	434	Janna_20	
 Janna	Battle Queen Janna	11	12/10/2020	1350	435	Janna_27	
+Janna	Crystal Rose Janna		2/10/2022	1350		Janna_36	
 Jarvan IV	Original Jarvan IV	0	3/1/2011	880	436	JarvanIV_0	
 Jarvan IV	Commando Jarvan IV	1	3/1/2011	520	437	JarvanIV_1	
 Jarvan IV	Dragonslayer Jarvan IV	3	3/1/2011	750	438	JarvanIV_2	
@@ -489,6 +503,8 @@ Jinx	Odyssey Jinx	6	9/12/2018	1350	483	Jinx_13
 Jinx	PROJECT: Jinx	7	8/1/2019	1350	484	Jinx_20	
 Jinx	Heartseeker Jinx	8	2/4/2020	1350	485	Jinx_29	
 Jinx	Arcane Jinx		11/24/2021	975		Jinx_37	
+Jinx	Battle Cat Jinx		3/31/2022	1350		Jinx_38	
+Jinx	Prestige Battle Cat Jinx		3/31/2022	special		Jinx_40	
 Kai'Sa	Original Kai'Sa	0	3/7/2018	975	486	Kaisa_0	
 Kai'Sa	Bullet Angel Kai'Sa	1	3/7/2018	1350	487	Kaisa_1	
 Kai'Sa	K/DA Kai'Sa	2	11/3/2018	1350	488	Kaisa_14	
@@ -533,6 +549,7 @@ Kassadin	Harbinger Kassadin	4	7/13/2011	975	524	Kassadin_4
 Kassadin	Cosmic Reaver Kassadin	5	10/14/2015	1350	525	Kassadin_5	
 Kassadin	Count Kassadin	6	10/24/2019	1350	526	Kassadin_6	
 Kassadin	Hextech Kassadin	7	10/15/2020	special	527	Kassadin_14	
+Kassadin	Shockblade Kassadin		2/17/2022	1350		Kassadin_15	
 Katarina	Original Katarina	0	9/18/2009	790	528	Katarina_0	
 Katarina	Mercenary Katarina	1	11/20/2009	520	529	Katarina_1	
 Katarina	Red Card Katarina	2	6/24/2010	975	530	Katarina_2	
@@ -547,6 +564,7 @@ Katarina	Death Sworn Katarina	10	10/25/2017	1350	538	Katarina_10
 Katarina	Battle Academia Katarina	11	5/15/2019	1350	539	Katarina_12	
 Katarina	Blood Moon Katarina	12	2/20/2020	1350	540	Katarina_21	
 Katarina	Battle Queen Katarina	13	12/10/2020	1820	541	Katarina_29	
+Katarina	High Noon Katarina		5/12/2022	1350		Katarina_37	
 Kayle	Original Kayle	0	2/21/2009	260	542	Kayle_0	
 Kayle	Silver Kayle	1	11/13/2009	special	543	Kayle_1	
 Kayle	Viridian Kayle	2	6/1/2010	520	544	Kayle_2	
@@ -561,6 +579,7 @@ Kayle	Pentakill Kayle	10	8/8/2017	1350	552	Kayle_15
 Kayle	PsyOps Kayle	11	9/17/2020	1350	553	Kayle_24	
 Kayle	Dragonslayer Kayle	12	4/15/2021	1350	554	Kayle_24	
 Kayle	Pentakill III: Lost Chapter Kayle		9/9/2021	1350		Kayle_33	
+Kayle	Sun-Eater Kayle		4/28/2022	1350		Kayle_42	
 Kayn	Original Kayn	0	7/11/2017	975	556	Kayn_0	
 Kayn	Soulhunter Kayn	1	7/11/2017	1350	557	Kayn_1	
 Kayn	Odyssey Kayn	2	9/12/2018	1820	558	Kayn_2	
@@ -645,6 +664,7 @@ Leona	Battle Academia Leona	10	3/18/2021	1350	632	Leona_21
 Leona	Battle Academia Leona Prestige Edition	11	3/18/2021	special	633	Leona_22	
 Leona	DWG Leona	12	4/29/2021	1350	634	Leona_23	
 Leona	Debonair Leona		12/9/2021	1350		Leona_33	
+Leona	High Noon Leona		5/12/2022	1820		Leona_34	
 Lillia	Original Lillia	0	7/22/2020	975	635	Lillia_0	
 Lillia	Spirit Blossom Lillia	1	7/22/2020	1350	636	Lillia_1	
 Lillia	Nightbringer Lillia		9/23/2021	1350		Lillia_10	
@@ -757,6 +777,7 @@ Miss Fortune	Pajama Guardian Miss Fortune	12	11/21/2018	1350	737	MissFortune_17
 Miss Fortune	Bewitching Miss Fortune	13	10/24/2019	1350	738	MissFortune_18	
 Miss Fortune	Bewitching Miss Fortune Prestige Edition	14	10/24/2019	special	739	MissFortune_20	
 Miss Fortune	Ruined Miss Fortune	15	7/22/2021	1350	740	MissFortune_21	
+Miss Fortune	Battle Bunny Miss Fortune		3/31/2022	1820		MissFortune_31	
 Mordekaiser	Original Mordekaiser	0	2/24/2010	585	741	Mordekaiser_0	
 Mordekaiser	Dragon Knight Mordekaiser	1	2/24/2010	520	742	Mordekaiser_1	
 Mordekaiser	Infernal Mordekaiser	2	2/24/2010	520	743	Mordekaiser_2	
@@ -766,6 +787,7 @@ Mordekaiser	King of Clubs Mordekaiser	5	5/20/2015	750	746	Mordekaiser_5
 Mordekaiser	Dark Star Mordekaiser	6	3/26/2020	1350	747	Mordekaiser_6	
 Mordekaiser	PROJECT: Mordekaiser	7	5/27/2021	1820	748	Mordekaiser_13	
 Mordekaiser	Pentakill III: Lost Chapter Mordekaiser		9/9/2021	1350		Mordekaiser_23	
+Mordekaiser	High Noon Mordekaiser		5/12/2022	1350		Mordekaiser_32	
 Morgana	Original Morgana	0	2/21/2009	585	751	Morgana_0	
 Morgana	Exiled Morgana	1	6/1/2010	975	752	Morgana_1	
 Morgana	Sinful Succulence Morgana	2	9/2/2010	975	753	Morgana_2	
@@ -837,6 +859,7 @@ Nidalee	Super Galaxy Nidalee	9	10/16/2017	1350	804	Nidalee_9
 Nidalee	Dawnbringer Nidalee	10	12/12/2019	1350	805	Nidalee_11	
 Nidalee	Cosmic Huntress Nidalee	11	11/24/2020	1350	806	Nidalee_18	
 Nidalee	DWG Nidalee	12	4/29/2021	1350	807	Nidalee_27	
+Nidalee	Ocean Song Nidalee		6/9/2022	1350		Nidalee_29	
 Nocturne	Original Nocturne	0	3/15/2011	880	808	Nocturne_0	
 Nocturne	Frozen Terror Nocturne	1	3/15/2011	975	809	Nocturne_1	
 Nocturne	Void Nocturne	2	3/15/2011	520	810	Nocturne_2	
@@ -856,6 +879,7 @@ Nunu & Willump	TPA Nunu & Willump	6	5/23/2013	750	823	Nunu_6	yes
 Nunu & Willump	Zombie Nunu & Willump	7	11/5/2015	1350	824	Nunu_7	
 Nunu & Willump	Papercraft Nunu & Willump	8	2/21/2019	1350	825	Nunu_8	
 Nunu & Willump	Space Groove Nunu & Willump	9	4/1/2021	1350	826	Nunu_16	
+Nunu & Willump	Nunu & Beelump		3/3/2022	1350		Nunu_26	
 Olaf	Original Olaf	0	6/8/2010	790	827	Olaf_0	
 Olaf	Forsaken Olaf	1	6/8/2010	520	828	Olaf_1	
 Olaf	Glacial Olaf	2	6/8/2010	520	829	Olaf_2	
@@ -877,6 +901,7 @@ Orianna	Heartseeker Orianna	6	2/11/2016	1350	844	Orianna_6
 Orianna	Dark Star Orianna	7	5/3/2017	1350	845	Orianna_7	
 Orianna	Victorious Orianna	8	11/21/2018	special	846	Orianna_8	
 Orianna	Pool Party Orianna	9	7/2/2020	1350	847	Orianna_11	
+Orianna	Orbeeanna		3/3/2022	1350		Orianna_20	
 Ornn	Original Ornn	0	8/22/2017	975	848	Ornn_0	
 Ornn	Thunder Lord Ornn	1	8/22/2017	1350	849	Ornn_1	
 Ornn	Elderwood Ornn	2	12/10/2020	1350	850	Ornn_2	
@@ -910,11 +935,13 @@ Pyke	Blood Moon Pyke	2	1/10/2019	1350	876	Pyke_9
 Pyke	PROJECT: Pyke	3	8/1/2019	1820	877	Pyke_16	
 Pyke	PsyOps Pyke	4	9/17/2020	1350	878	Pyke_25	
 Pyke	Sentinel Pyke	5	7/22/2021	1350	879	Pyke_34	
+Pyke	Ashen Knight Pyke		3/31/2022	special		Pyke_44	
 Qiyana	Original Qiyana	0	6/28/2019	975	880	Qiyana_0	
 Qiyana	Battle Boss Qiyana	1	6/28/2019	1350	881	Qiyana_1	
 Qiyana	True Damage Qiyana Prestige Edition	2	11/10/2019	special	882	Qiyana_2	
 Qiyana	True Damage Qiyana	3	11/10/2019	1350	883	Qiyana_10	
 Qiyana	Battle Queen Qiyana	4	12/10/2020	1350	884	Qiyana_11	
+Qiyana	Shockblade Qiyana		2/17/2022	1350		Qiyana_20	
 Quinn	Original Quinn	0	3/1/2013	880	885	Quinn_0	
 Quinn	Phoenix Quinn	1	3/1/2013	975	886	Quinn_1	
 Quinn	Woad Scout Quinn	2	6/9/2014	975	887	Quinn_2	
@@ -928,6 +955,7 @@ Rakan	SSG Rakan	3	7/20/2018	1350	894	Rakan_3	yes
 Rakan	iG Rakan	4	4/23/2019	1350	895	Rakan_4	yes
 Rakan	Star Guardian Rakan	5	9/12/2019	1820	896	Rakan_5	
 Rakan	Elderwood Rakan	6	12/10/2020	1350	897	Rakan_9	
+Rakan	Arcana Rakan		4/14/2022	1350		Rakan_18	
 Rammus	Original Rammus	0	7/9/2009	585	898	Rammus_0	
 Rammus	King Rammus	1	10/20/2009	special	899	Rammus_1	
 Rammus	Chrome Rammus	2	5/17/2010	750	900	Rammus_2	
@@ -946,6 +974,8 @@ Rek'Sai	Blackfrost Rek'Sai	3	3/5/2020	1350	912	RekSai_9
 Rek'Sai	Elderwood Rek'Sai		1/6/2022	1350		RekSai_17	
 Rell	Original Rell	0	12/10/2020	975	913	Rell_0	
 Rell	Battle Queen Rell	1	12/10/2020	1350	914	Rell_1	
+Renata Glasc	Admiral Glasc		2/17/2022	1350		Renata_1	
+Renata Glasc	Original Renata Glasc		2/17/2022	975		Renata_0	
 Renekton	Original Renekton	0	1/18/2011	880	915	Renekton_0	
 Renekton	Galactic Renekton	1	1/18/2011	520	916	Renekton_1	
 Renekton	Outback Renekton	2	1/18/2011	520	917	Renekton_2	
@@ -981,6 +1011,7 @@ Riven	Valiant Sword Riven Prestige Edition	10	9/26/2019	special	946	Riven_20
 Riven	Valiant Sword Riven	11	9/26/2019	1350	947	Riven_22	
 Riven	Spirit Blossom Riven	12	8/6/2020	1350	948	Riven_23	
 Riven	Sentinel Riven	13	7/8/2021	1350	949	Riven_34	
+Riven	Battle Bunny Prime Riven		3/31/2022	1350		Riven_44	
 Rumble	Original Rumble	0	4/26/2011	880	950	Rumble_0	
 Rumble	Bilgerat Rumble	1	4/26/2011	520	951	Rumble_1	
 Rumble	Rumble in the Jungle	2	4/26/2011	975	952	Rumble_2	
@@ -1000,9 +1031,11 @@ Ryze	Ryze Whitebeard	9	12/7/2015	750	965	Ryze_9
 Ryze	SKT T1 Ryze	10	8/17/2016	975	966	Ryze_10	yes
 Ryze	Championship Ryze	11	9/26/2019	1350	967	Ryze_11	yes
 Ryze	Guardian of the Sands Ryze	12	1/22/2020	1350	968	Ryze_13	
+Ryze	Arcana Ryze		4/14/2022	1350		Ryze_20	
 Samira	Original Samira	0	9/21/2020	975	969	Samira_0	
 Samira	PsyOps Samira	1	9/21/2020	1350	970	Samira_1	
 Samira	Space Groove Samira	2	4/1/2021	1350	971	Samira_10	
+Samira	High Noon Samira		5/26/2022	1350		Samira_20	
 Sejuani	Original Sejuani	0	1/17/2012	880	972	Sejuani_0	
 Sejuani	Darkrider Sejuani	1	1/17/2012	975	973	Sejuani_1	
 Sejuani	Sabretusk Sejuani	2	1/17/2012	975	974	Sejuani_2	
@@ -1014,16 +1047,21 @@ Sejuani	Sejuani Dawnchaser	7	11/17/2016	750	979	Sejuani_7
 Sejuani	Firecracker Sejuani	8	1/28/2019	1350	980	Sejuani_8	
 Sejuani	Hextech Sejuani	9	3/5/2020	special	981	Sejuani_15	
 Sejuani	PROJECT: Sejuani	10	5/27/2021	1350	982	Sejuani_16	
+Sejuani	Solar Eclipse Sejuani		4/28/2022	1350		Sejuani_26	
 Senna	Original Senna	0	11/10/2019	975	983	Senna_0	
 Senna	True Damage Senna	1	11/10/2019	1350	984	Senna_1	
 Senna	True Damage Senna Prestige Edition	2	2/4/2020	special	985	Senna_9	
 Senna	High Noon Senna	3	6/18/2020	1820	986	Senna_10	
 Senna	PROJECT: Senna	4	5/27/2021	1350	987	Senna_16	
+Senna	Lunar Eclipse Senna		4/28/2022	1350		Senna_26	
+Senna	Prestige Lunar Eclipse Senna		4/28/2022	special		Senna_27	
 Seraphine	Original Seraphine	0	10/29/2020	975	988	Seraphine_0	
 Seraphine	K/DA ALL OUT Seraphine Indie	1	10/29/2020	3250	989	Seraphine_1	
 Seraphine	K/DA ALL OUT Seraphine Rising Star	2	10/29/2020	special	990	Seraphine_2	
 Seraphine	K/DA ALL OUT Seraphine Superstar	3	10/29/2020	special	991	Seraphine_3	
 Seraphine	Graceful Phoenix Seraphine		9/2/2021	1350		Seraphine_4	
+Seraphine	Ocean Song Seraphine		6/9/2022	1350		Seraphine_14	
+Seraphine	Prestige Ocean Song Seraphine		6/9/2022	special		Seraphine_15	
 Sett	Original Sett	0	1/14/2020	975	993	Sett_0	
 Sett	Mecha Kingdoms Sett	1	1/14/2020	1350	994	Sett_1	
 Sett	Obsidian Dragon Sett	2	10/1/2020	1350	995	Sett_8	
@@ -1051,6 +1089,7 @@ Shen	TPA Shen	6	5/23/2013	750	1015	Shen_6	yes
 Shen	Pulsefire Shen	7	5/17/2018	1350	1016	Shen_15	
 Shen	Infernal Shen	8	9/5/2019	1350	1017	Shen_16	
 Shen	PsyOps Shen	9	9/3/2020	1350	1018	Shen_22	
+Shen	Shockblade Shen		2/17/2022	1350		Shen_40	
 Shyvana	Original Shyvana	0	11/1/2011	790	1019	Shyvana_0	
 Shyvana	Boneclaw Shyvana	1	11/1/2011	520	1020	Shyvana_1	
 Shyvana	Ironscale Shyvana	2	11/1/2011	750	1021	Shyvana_2	
@@ -1078,6 +1117,7 @@ Sion	Warmonger Sion	4	7/18/2011	975	1042	Sion_4
 Sion	Mecha Zero Sion	5	4/13/2016	1820	1043	Sion_5	
 Sion	Worldbreaker Sion	6	4/9/2020	1350	1044	Sion_14	
 Sion	Blackfrost Sion	7	4/15/2021	1350	1045	Sion_22	
+Sion	High Noon Sion		5/26/2022	1350		Sion_30	
 Sivir	Original Sivir	0	2/21/2009	260	1046	Sivir_0	
 Sivir	Warrior Princess Sivir	1	4/27/2010	520	1047	Sivir_1	
 Sivir	Spectacular Sivir	2	6/8/2010	975	1048	Sivir_2	
@@ -1092,6 +1132,7 @@ Sivir	Pizza Delivery Sivir	10	3/29/2018	1350	1056	Sivir_10
 Sivir	Blood Moon Sivir	11	1/10/2019	1350	1057	Sivir_16	
 Sivir	Odyssey Sivir	12	10/15/2020	1350	1058	Sivir_25	
 Sivir	Cafe Cuties Sivir		12/2/2021	1350		Sivir_34	
+Sivir	Solar Eclipse Sivir		4/28/2022	1820		Sivir_43	
 Skarner	Original Skarner	0	8/9/2011	880	1060	Skarner_0	
 Skarner	Earthrune Skarner	1	8/9/2011	520	1061	Skarner_1	
 Skarner	Sandscourge Skarner	2	8/9/2011	975	1062	Skarner_2	
@@ -1135,6 +1176,7 @@ Sylas	Lunar Wraith Sylas	1	1/25/2019	1350	1098	Sylas_1
 Sylas	Freljord Sylas	2	1/10/2020	1350	1099	Sylas_8	
 Sylas	PROJECT: Sylas	3	5/27/2021	1350	1100	Sylas_13	
 Sylas	PROJECT: Sylas Prestige Edition	4	5/27/2021	special	1101	Sylas_14	
+Sylas	Battle Wolf Sylas		3/31/2022	1350		Sylas_24	
 Syndra	Original Syndra	0	9/12/2012	880	1102	Syndra_0	
 Syndra	Justicar Syndra	1	9/12/2012	975	1103	Syndra_1	
 Syndra	Atlantean Syndra	2	4/29/2014	975	1104	Syndra_2	
@@ -1150,6 +1192,7 @@ Tahm Kench	Master Chef Tahm Kench	1	7/8/2015	975	1112	TahmKench_1
 Tahm Kench	Urf Kench	2	3/31/2016	750	1113	TahmKench_2	yes
 Tahm Kench	Coin Emperor Tahm Kench	3	1/28/2019	1350	1114	TahmKench_3	
 Tahm Kench	Arcana Tahm Kench	4	5/13/2021	1350	1115	TahmKench_11	
+Tahm Kench	High Noon Tahm Kench		5/26/2022	1350		TahmKench_20	
 Taliyah	Original Taliyah	0	5/17/2016	975	1116	Taliyah_0	
 Taliyah	Freljord Taliyah	1	5/17/2016	1350	1117	Taliyah_1	
 Taliyah	SSG Taliyah	2	7/20/2018	1350	1118	Taliyah_2	yes
@@ -1163,6 +1206,8 @@ Talon	Blood Moon Talon	5	2/9/2017	1350	1125	Talon_5
 Talon	Enduring Sword Talon	6	9/4/2018	1350	1126	Talon_12	
 Talon	Talon Blackwood	7	3/19/2020	1350	1127	Talon_20	
 Talon	Withered Rose Talon	8	2/11/2021	1350	1128	Talon_29	
+Talon	High Noon Talon		5/12/2022	1350		Talon_38	
+Talon	Prestige High Noon Talon		5/12/2022	special		Talon_39	
 Taric	Original Taric	0	8/18/2009	585	1129	Taric_0	
 Taric	Emerald Taric	1	11/20/2009	520	1130	Taric_1	
 Taric	Armor of the Fifth Age Taric	2	4/8/2010	750	1131	Taric_2	
@@ -1256,6 +1301,7 @@ Twitch	Omega Squad Twitch	8	7/26/2017	1350	1214	Twitch_8
 Twitch	Ice King Twitch	9	12/6/2018	1350	1215	Twitch_12	
 Twitch	Twitch Shadowfoot	10	3/19/2020	1350	1216	Twitch_27	
 Twitch	Dragonslayer Twitch	11	4/15/2021	1350	1217	Twitch_36	
+Twitch	High Noon Twitch		5/26/2022	1350		Twitch_45	
 Udyr	Original Udyr	0	12/2/2009	585	1218	Udyr_0	
 Udyr	Black Belt Udyr	1	7/18/2010	520	1219	Udyr_1	
 Udyr	Primal Udyr	2	12/6/2010	975	1220	Udyr_2	
@@ -1279,6 +1325,7 @@ Varus	Conqueror Varus	7	4/25/2018	975	1237	Varus_7
 Varus	Infernal Varus	8	9/5/2019	1350	1238	Varus_9	
 Varus	Cosmic Hunter Varus	9	11/24/2020	1350	1239	Varus_16	
 Varus	PROJECT: Varus	10	5/27/2021	1350	1240	Varus_17	
+Varus	High Noon Varus		5/12/2022	1350		Varus_34	
 Vayne	Original Vayne	0	5/10/2011	880	1241	Vayne_0	
 Vayne	Vindicator Vayne	2	5/10/2011	520	1243	Vayne_1	
 Vayne	Aristocrat Vayne	1	5/10/2011	520	1242	Vayne_2	
@@ -1293,6 +1340,7 @@ Vayne	Firecracker Vayne Prestige Edition	10	1/28/2019	special	1251	Vayne_13
 Vayne	FPX Vayne	11	4/30/2020	1350	1252	Vayne_14	yes
 Vayne	Spirit Blossom Vayne	12	7/22/2020	1350	1253	Vayne_15	
 Vayne	Sentinel Vayne	13	7/8/2021	1820	1254	Vayne_25	
+Vayne	Battle Bat Vayne		3/31/2022	1350		Vayne_32	
 Veigar	Original Veigar	0	7/23/2009	585	1255	Veigar_0	
 Veigar	White Mage Veigar	1	12/17/2009	390	1256	Veigar_1	
 Veigar	Curling Veigar	2	2/12/2010	520	1257	Veigar_2	
@@ -1327,12 +1375,14 @@ Vi	Arcane Vi		11/15/2021	975		Vi_29
 Viego	Original Viego	0	1/21/2021	975	1283	Viego_0	
 Viego	Lunar Beast Viego	1	1/21/2021	1350	1284	Viego_1	
 Viego	Dissonance of Pentakill Viego		9/9/2021	1350		Viego_10	
+Viego	EDG Viego		5/12/2022	1350		Viego_19	
 Viktor	Original Viktor	0	12/29/2011	880	1286	Viktor_0	
 Viktor	Full Machine Viktor	1	12/29/2011	975	1287	Viktor_1	
 Viktor	Prototype Viktor	2	12/29/2011	520	1288	Viktor_2	
 Viktor	Creator Viktor	3	9/30/2013	1350	1289	Viktor_3	
 Viktor	Death Sworn Viktor	4	10/25/2017	1350	1290	Viktor_4	
 Viktor	PsyOps Viktor	5	9/17/2020	1350	1291	Viktor_5	
+Viktor	High Noon Viktor		5/26/2022	1350		Viktor_14	
 Vladimir	Original Vladimir	0	7/27/2010	790	1292	Vladimir_0	
 Vladimir	Count Vladimir	1	7/27/2010	520	1293	Vladimir_1	
 Vladimir	Marquis Vladimir	2	7/27/2010	520	1294	Vladimir_2	
@@ -1383,6 +1433,8 @@ Xayah	Star Guardian Xayah	4	9/12/2019	1820	1335	Xayah_4
 Xayah	Elderwood Xayah	5	12/10/2020	1350	1336	Xayah_8	
 Xayah	Brave Phoenix Xayah		9/2/2021	1350		Xayah_17	
 Xayah	Brave Phoenix Xayah Prestige Edition		1/26/2022	special		Xayah_17	
+Xayah	Arcana Xayah		4/14/2022	1350		Xayah_28	
+Xayah	Prestige Brave Phoenix Xayah		2/17/2022	special		Xayah_26	
 Xerath	Original Xerath	0	10/5/2011	880	1338	Xerath_0	
 Xerath	Battlecast Xerath	1	10/5/2011	520	1339	Xerath_1	
 Xerath	Runeborn Xerath	2	10/5/2011	750	1340	Xerath_2	
@@ -1413,10 +1465,12 @@ Yasuo	Spirit Blossom Yasuo	8	7/22/2020	1350	1363	Yasuo_35
 Yasuo	True Damage Yasuo Prestige Edition	9	9/25/2020	special	1364	Yasuo_36	
 Yasuo	Dream Dragon Yasuo		10/21/2021	1820		Yasuo_55	
 Yasuo	Truth Dragon Yasuo		10/21/2021	1820		Yasuo_54	
+Yasuo	Sea Dog Yasuo		5/5/2022	1350		Yasuo_45	
 Yone	Original Yone	0	8/6/2020	975	1365	Yone_0	
 Yone	Spirit Blossom Yone	1	8/6/2020	1350	1366	Yone_1	
 Yone	Battle Academia Yone	2	3/18/2021	1350	1367	Yone_10	
 Yone	Dawnbringer Yone		9/23/2021	1820		Yone_19	
+Yone	Ocean Song Yone		6/9/2022	1350		Yone_26	
 Yorick	Original Yorick	0	6/22/2011	880	1368	Yorick_0	
 Yorick	Pentakill Yorick	1	6/21/2011	975	1369	Yorick_1	
 Yorick	Undertaker Yorick	2	6/21/2011	520	1370	Yorick_2	
@@ -1429,6 +1483,7 @@ Yuumi	Battle Principal Yuumi	1	5/14/2019	1350	1376	Yuumi_1
 Yuumi	Heartseeker Yuumi	2	2/4/2020	1350	1377	Yuumi_11	
 Yuumi	Yuubee	3	3/4/2021	1350	1378	Yuumi_19	
 Yuumi	Bewitching Yuumi		10/7/2021	1350		Yuumi_28	
+Yuumi	EDG Yuumi		5/12/2022	1350		Yuumi_37	
 Zac	Original Zac	0	3/29/2013	975	1379	Zac_0	
 Zac	special Weapon Zac	1	3/29/2013	975	1380	Zac_1	
 Zac	Pool Party Zac	2	6/25/2015	1350	1381	Zac_2	
@@ -1446,6 +1501,7 @@ Zed	PROJECT: Zed Prestige Edition	8	6/24/2021	special	1392	Zed_30
 Zed	Debonair Zed		12/9/2021	1820		Zed_31	
 Zeri	Original Zeri		1/20/2022	975		Zeri_0	
 Zeri	Withered Rose Zeri		1/20/2022	1350		Zeri_1	
+Zeri	Ocean Song Zeri		6/9/2022	1350		Zeri_10	
 Ziggs	Original Ziggs	0	2/1/2012	880	1393	Ziggs_0	
 Ziggs	Mad Scientist Ziggs	1	2/1/2012	975	1394	Ziggs_1	
 Ziggs	Major Ziggs	2	2/1/2012	975	1395	Ziggs_2	
@@ -1456,6 +1512,7 @@ Ziggs	Battle Boss Ziggs	6	8/8/2017	1350	1399	Ziggs_6
 Ziggs	Odyssey Ziggs	7	9/12/2018	1350	1400	Ziggs_7	
 Ziggs	Sugar Rush Ziggs	8	12/17/2019	1350	1401	Ziggs_14	
 Ziggs	Hextech Ziggs	9	9/3/2020	special	1402	Ziggs_23	
+Ziggs	BZZZiggs		3/3/2022	1350		Ziggs_24	
 Zilean	Original Zilean	0	4/17/2009	585	1403	Zilean_0	
 Zilean	Old Saint Zilean	1	12/23/2009	520	1404	Zilean_1	
 Zilean	Groovy Zilean	2	7/27/2010	520	1405	Zilean_2	
@@ -1469,6 +1526,7 @@ Zoe	Pool Party Zoe	2	8/2/2018	1350	1412	Zoe_2
 Zoe	Star Guardian Zoe	3	9/12/2019	1350	1413	Zoe_9	
 Zoe	Arcanist Zoe	4	7/9/2020	1350	1414	Zoe_18	
 Zoe	Arcanist Zoe Prestige Edition	5	7/9/2020	special	1415	Zoe_19	
+Zoe	EDG Zoe		5/12/2022	1350		Zoe_20	
 Zyra	Original Zyra	0	7/24/2012	880	1416	Zyra_0	
 Zyra	Wildfire Zyra	1	7/24/2012	975	1417	Zyra_1	
 Zyra	Haunted Zyra	2	10/29/2013	1350	1418	Zyra_2	
@@ -1478,61 +1536,3 @@ Zyra	Coven Zyra	5	4/16/2020	1350	1421	Zyra_5
 Zyra	Coven Zyra Prestige Edition	6	4/16/2020	special	1422	Zyra_6	
 Zyra	Crystal Rose Zyra	7	2/11/2021	1350	1423	Zyra_7	
 Zyra	Crime City Nightmare Zyra		8/26/2021	1350		Zyra_16	
-Ashe	Ocean Song Ashe		6/9/2022	1350		Ashe_43	
-Bel'Veth	Battle Boss Bel'Veth		6/9/2022	1350		Belveth_1	
-Bel'Veth	Original Bel'Veth		6/9/2022	975		Belveth_0	
-Nidalee	Ocean Song Nidalee		6/9/2022	1350		Nidalee_29	
-Seraphine	Ocean Song Seraphine		6/9/2022	1350		Seraphine_14	
-Seraphine	Prestige Ocean Song Seraphine		6/9/2022	special		Seraphine_15	
-Yone	Ocean Song Yone		6/9/2022	1350		Yone_26	
-Zeri	Ocean Song Zeri		6/9/2022	1350		Zeri_10	
-Samira	High Noon Samira		5/26/2022	1350		Samira_20	
-Sion	High Noon Sion		5/26/2022	1350		Sion_30	
-Tahm Kench	High Noon Tahm Kench		5/26/2022	1350		TahmKench_20	
-Twitch	High Noon Twitch		5/26/2022	1350		Twitch_45	
-Viktor	High Noon Viktor		5/26/2022	1350		Viktor_14	
-Aphelios	EDG Aphelios		5/12/2022	1350		Aphelios_18	
-Graves	EDG Graves		5/12/2022	1350		Graves_42	
-Katarina	High Noon Katarina		5/12/2022	1350		Katarina_37	
-Leona	High Noon Leona		5/12/2022	1820		Leona_34	
-Mordekaiser	High Noon Mordekaiser		5/12/2022	1350		Mordekaiser_32	
-Talon	High Noon Talon		5/12/2022	1350		Talon_38	
-Talon	Prestige High Noon Talon		5/12/2022	special		Talon_39	
-Varus	High Noon Varus		5/12/2022	1350		Varus_34	
-Viego	EDG Viego		5/12/2022	1350		Viego_19	
-Yuumi	EDG Yuumi		5/12/2022	1350		Yuumi_37	
-Zoe	EDG Zoe		5/12/2022	1350		Zoe_20	
-Gangplank	Gangplank the Betrayer		5/5/2022	1350		Gangplank_23	
-Yasuo	Sea Dog Yasuo		5/5/2022	1350		Yasuo_45	
-Aatrox	Lunar Eclipse Aatrox		4/28/2022	1350		Aatrox_21	
-Kayle	Sun-Eater Kayle		4/28/2022	1350		Kayle_42	
-Sejuani	Solar Eclipse Sejuani		4/28/2022	1350		Sejuani_26	
-Senna	Lunar Eclipse Senna		4/28/2022	1350		Senna_26	
-Senna	Prestige Lunar Eclipse Senna		4/28/2022	special		Senna_27	
-Sivir	Solar Eclipse Sivir		4/28/2022	1820		Sivir_43	
-Ahri	Arcana Ahri		4/14/2022	1350		Ahri_66	
-Hecarim	Arcana Hecarim		4/14/2022	1350		Hecarim_22	
-Rakan	Arcana Rakan		4/14/2022	1350		Rakan_18	
-Ryze	Arcana Ryze		4/14/2022	1350		Ryze_20	
-Xayah	Arcana Xayah		4/14/2022	1350		Xayah_28	
-Jinx	Battle Cat Jinx		3/31/2022	1350		Jinx_38	
-Jinx	Prestige Battle Cat Jinx		3/31/2022	special		Jinx_40	
-Miss Fortune	Battle Bunny Miss Fortune		3/31/2022	1820		MissFortune_31	
-Pyke	Ashen Knight Pyke		3/31/2022	special		Pyke_44	
-Riven	Battle Bunny Prime Riven		3/31/2022	1350		Riven_44	
-Sylas	Battle Wolf Sylas		3/31/2022	1350		Sylas_24	
-Vayne	Battle Bat Vayne		3/31/2022	1350		Vayne_32	
-Heimerdinger	Heimerstinger		3/3/2022	1350		Heimerdinger_24	
-Nunu & Willump	Nunu & Beelump		3/3/2022	1350		Nunu_26	
-Orianna	Orbeeanna		3/3/2022	1350		Orianna_20	
-Ziggs	BZZZiggs		3/3/2022	1350		Ziggs_24	
-Ekko	Firelight Ekko		2/17/2022	1350		Ekko_36	
-Kassadin	Shockblade Kassadin		2/17/2022	1350		Kassadin_15	
-Qiyana	Shockblade Qiyana		2/17/2022	1350		Qiyana_20	
-Renata Glasc	Admiral Glasc		2/17/2022	1350		Renata_1	
-Renata Glasc	Original Renata Glasc		2/17/2022	975		Renata_0	
-Shen	Shockblade Shen		2/17/2022	1350		Shen_40	
-Xayah	Prestige Brave Phoenix Xayah		2/17/2022	special		Xayah_26	
-Akshan	Crystal Rose Akshan		2/10/2022	1350		Akshan_10	
-Elise	Withered Rose Elise		2/10/2022	1350		Elise_15	
-Janna	Crystal Rose Janna		2/10/2022	1350		Janna_36	
